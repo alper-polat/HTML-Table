@@ -9,6 +9,7 @@ table {
     height: 280px;
     border: 1px solid black;
     border-collapse: collapse;
+    font-weight: 600;
     margin: auto;
     text-align: center;
     position: absolute;

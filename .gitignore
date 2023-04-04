@@ -1,2 +1,3 @@
-# images
-images/
+# images/
+# images dosyalarını git akışında görmek istemedim ve gitginore dosyasına dahil ettim.
+# ama bu şekilde yaptığımda projemin resmi README dosyasında görünmedi.Çünkü görsel GIT akışında görünmüyordu.Bu yüzden images klasörünü gitignore dosyasından kaldırdım
